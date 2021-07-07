@@ -242,7 +242,7 @@ public class main {
   
   private static void setarFuncionariosIniciais(Funcionario[] func) {
     func[0] = new Funcionario();
-    func[0].nome = "ataide";
+    func[0].nome = "b";
     func[0].endereco = "rua 1";
     func[0].tipo = 1;
     func[0].salario_hora = 10.0;
@@ -259,7 +259,7 @@ public class main {
     
     
     func[1] = new Funcionario();
-    func[1].nome = "poca";
+    func[1].nome = "a";
     func[1].endereco = "rua 1";
     func[1].tipo = 3;
     func[1].comissao = 25;
